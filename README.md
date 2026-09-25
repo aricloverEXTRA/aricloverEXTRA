@@ -1,16 +1,19 @@
-## Hi there 👋
+<a href="https://github.com/aricloverEXTRA#gh-dark-mode-only">
+  <img src="https://github-stats-extended.vercel.app/api?username=aricloverEXTRA&hide=contribs&show_icons=true&theme=dark#gh-dark-mode-only" alt="My GitHub Stats" />
+</a>
 
-<!--
-**aricloverEXTRA/aricloverEXTRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/aricloverEXTRA#gh-light-mode-only">
+  <img src="https://github-stats-extended.vercel.app/api?username=aricloverEXTRA&hide=contribs&show_icons=true&theme=light#gh-light-mode-only" alt="My GitHub Stats" />
+</a>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/aricloverEXTRA#gh-dark-mode-only">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aricloverEXTRA&layout=compact&theme=dark#gh-dark-mode-only" alt="My Most Used Languages" />
+</a>
+
+<a href="https://github.com/aricloverEXTRA#gh-light-mode-only">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aricloverEXTRA&layout=compact&theme=light#gh-light-mode-only" alt="My Most Used Languages" />
+</a>
+
+![](https://komarev.com/ghpvc/?username=aricloverEXTRA)
